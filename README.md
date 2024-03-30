@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="10%" width="100%" style="border-radius:50%" src="./images/mesh-87.png"  />
+  <img height="10%" width="100%" style="border-radius:10" src="./images/mesh-87.png"  />
 </div>
 
 ###
