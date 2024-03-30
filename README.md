@@ -4,21 +4,21 @@
 
 ###
 
-<div align="center">
+<div align="left">
  <a href="https://www.linkedin.com/in/ahmed-khalid-ahmed-8a108a208/?trk=opento_sprofile_details" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:ahmedkhalidahi22@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-
+<span align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmedkhalidahi22.ahmedkhalidahi22&"  />
+</span>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmedkhalidahi22.ahmedkhalidahi22&"  />
-</div>
+
 
 ###
 
