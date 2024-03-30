@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="center">Hi there, welcome to my profile 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 ###
 
