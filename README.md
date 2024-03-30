@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="100%" src="./images/profile-image.png"  />
+  <img width="100%" src="./images/profile-image.png"  />
 </div>
 
 ###
