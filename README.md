@@ -15,13 +15,13 @@
 ###
 
 <p align="left">I'm Ahmed Khalid a front-end/full-stack developer from Sudan, I spend most of my coding time building neat-looking interfaces using React & Next.js.
-  <br><br><be>
+  <br><br><br>
   ⚬ 🔭 I'm working as a front-end engineer at Tutipay CO LTD 
-  <br><be><be>
+  <br><br>
   ⚬ 📚 I'm currently learning about Zustand and occasionally delving into React's new cool docs.
-  <br><be><be>
+  <br><br>
   ⚬ ⚡ In my free time I work on my side projects. currently working on Room8 AI, an AI-powered app that helps you find your next roommate.
-  <br><be><be>
+  <br><br>
   ⚬ 🚀 You can check some of my projects at <a href="https://ahmedkhalid.vercel.app/" style="font-weight:500">ahmedkhalid.vercel.app</a> <br></p>
 
 ###
