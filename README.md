@@ -20,7 +20,7 @@
   <br><be>
   ⚬ 📚 I'm currently learning about Zustand and occasionally delving into React's new cool docs.
   <br><be>
-  ⚬ ⚡ In my free time I work on my side projects. currently working on Room8ai, an AI-powered app that helps you find your next roommate.
+  ⚬ ⚡ In my free time I work on my side projects. currently working on Room8 AI, an AI-powered app that helps you find your next roommate.
   <br><be>
   ⚬ 🚀 You can check some of my projects at <a href="https://ahmedkhalid.vercel.app/" style="font-weight:500">ahmedkhalid.vercel.app</a> <br></p>
 
