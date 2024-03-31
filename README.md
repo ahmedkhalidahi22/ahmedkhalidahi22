@@ -22,7 +22,7 @@
   <br><br>
   ⚬ ⚡ In my free time I work on my side projects. currently working on Room8 AI, an AI-powered app that helps you find your next roommate.
   <br><br>
-  ⚬ 🚀 You can check some of my projects at <a href="https://ahmedkhalid.vercel.app/" style="font-weight:500">ahmedkhalid.vercel.app</a> <br></p>
+  ⚬ 🚀 You can check some of my projects at <a href="https://ahmedkhalid.vercel.app/" style="font-weight:500">ahmedkhalid.vercel.app</a> <br><br></p>
 
 ###
 
