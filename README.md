@@ -73,9 +73,6 @@
 </div>
 
 ###
-<br>
-
-###
 
 <div align="center">
  <a href="https://www.linkedin.com/in/ahmed-khalid-ahmed-8a108a208/?trk=opento_sprofile_details" target="_blank">
