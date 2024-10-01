@@ -16,7 +16,7 @@
 
 <p align="left">I'm Ahmed Khalid a front-end/full-stack developer from Sudan, I spend most of my coding time building neat-looking interfaces using React & Next.js.
   <br><br><br>
-  ⚬ 🔭 I'm working as a front-end engineer at Tutipay CO LTD 
+  ⚬ 🔭 I'm working as a front-end engineer at Golden Mulberry AVL
   <br><br>
   ⚬ 📚 I'm currently learning about Zustand and occasionally delving into React's new cool docs.
   <br><br>
