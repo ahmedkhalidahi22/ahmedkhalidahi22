@@ -1,28 +1,15 @@
-<div align="center">
-  <a href="https://ahmedkhalid.vercel.app/" target="_blank"><img width="100%" src="./images/profile-image.png"  /></a>
-  
-</div>
 
-
-###
 
 <h1 align="center">Hi there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">I'm Ahmed Khalid.
 
-###
+  ⚬ 🔭 I'm a Product Engineer at <a href="https://www.hatif.io/" style="font-weight:500">Hatif</a>
 
-<p align="left">I'm Ahmed Khalid a front-end/full-stack developer from Sudan, I spend most of my coding time building neat-looking interfaces using React & Next.js.
-  <br><br><br>
-  ⚬ 🔭 I'm working as a front-end engineer at Golden Mulberry AVL
   <br><br>
-  ⚬ 📚 I'm currently learning about Zustand and occasionally delving into React's new cool docs.
-  <br><br>
-  ⚬ ⚡ In my free time I work on my side projects. currently working on Room8 AI, an AI-powered app that helps you find your next roommate.
-  <br><br>
-  ⚬ 🚀 You can check some of my projects at <a href="https://ahmedkhalid.vercel.app/" style="font-weight:500">ahmedkhalid.vercel.app</a> <br><br></p>
+  ⚬ 🚀 check some of my projects at <a href="https://ahmedkhalid.vercel.app/" style="font-weight:500">ahmedkhalid.vercel.app</a> <br><br></p>
 
 ###
 
