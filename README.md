@@ -2,8 +2,7 @@
 <p align="left">Hi, I'm Ahmed Khalid.
 
   ⚬ 🔭 I'm a Product Engineer at <a href="https://www.hatif.io/" style="font-weight:500">Hatif</a>
-
-  <br><br>
+  <br>
   ⚬ 🚀 check some of my projects at <a href="https://ahmedkhalid.vercel.app/" style="font-weight:500">ahmedkhalid.vercel.app</a> <br><br></p>
 
 ###
